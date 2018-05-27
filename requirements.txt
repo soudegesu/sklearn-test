@@ -2,4 +2,6 @@ jupyter
 seaborn
 scikit-learn
 mglearn
+scipy
+Pillow
 
