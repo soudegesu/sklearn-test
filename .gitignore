@@ -4,3 +4,8 @@
 .python-version
 
 .ipynb_checkpoints
+
+tmp
+*.dot
+*.png
+
