@@ -8,4 +8,5 @@
 tmp
 *.dot
 *.png
-
+aclImdb/
+data/
